@@ -5,10 +5,10 @@ apis:
   - aid: crane-worldwide:crane-worldwide
     name: Crane Worldwide
     tags:
-      - Supply chain
-      - Freight
-      - Warehouses
       - Distribution
+      - Freight
+      - Supply Chain
+      - Warehouses
     humanURL: https://api-portal.craneww.com
     properties:
       - url: https://api-portal.craneww.com
@@ -21,10 +21,10 @@ apis:
       brokerage.
 name: Crane Worldwide
 tags:
-  - Supply chain
-  - Freight
-  - Warehouses
   - Distribution
+  - Freight
+  - Supply Chain
+  - Warehouses
 type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
