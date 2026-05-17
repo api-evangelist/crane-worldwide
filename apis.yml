@@ -1,6 +1,6 @@
 aid: crane-worldwide
 name: Crane Worldwide Logistics
-x-type: company
+kind: company
 description: >-
   Crane Worldwide Logistics is a global third-party logistics provider
   delivering air freight, ocean freight, customs brokerage, warehousing,
