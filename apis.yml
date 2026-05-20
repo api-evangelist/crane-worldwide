@@ -58,6 +58,8 @@ apis:
       - Shipment Tracking
       - Supply Chain
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/crane-worldwide-logistics_2
   - type: Website
     url: https://www.craneww.com/
   - type: Portal
