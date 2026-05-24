@@ -78,6 +78,8 @@ common:
     url: https://www.craneww.com/privacy-policy/
   - type: TermsOfUse
     url: https://www.craneww.com/terms-of-use/
+  - type: LLMsTxt
+    url: https://developers.craneww.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
