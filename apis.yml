@@ -48,7 +48,7 @@ apis:
         url: https://api-portal.craneww.com
       - type: Documentation
         url: https://developers.craneww.com/api/documentation/
-      - type: SignUp
+      - type: Signup
         url: https://api-portal.craneww.com
       - type: Authentication
         url: https://api-portal.craneww.com
@@ -77,9 +77,9 @@ common:
     url: https://www.craneww.com/news/
   - type: PrivacyPolicy
     url: https://www.craneww.com/privacy-policy/
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.craneww.com/terms-of-use/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://developers.craneww.com/llms.txt
 maintainers:
   - FN: Kin Lane
