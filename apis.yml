@@ -76,6 +76,12 @@ apis:
       - type: Authentication
         url: https://api-portal.craneww.com
     tags:
+      - Booking
+      - Customs
+      - Freight
+      - Shipment Tracking
+      - Supply Chain
+    tags_raw:
       - Bookings
       - Customs
       - Freight
