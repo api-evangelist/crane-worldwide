@@ -51,7 +51,7 @@ tags:
   - Warehousing
   - Fortune 1000
 created: '2024-11-07'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 type: Index
 access: 3rd-Party
@@ -92,6 +92,8 @@ apis:
       - Shipment Tracking
       - Supply Chain
 common:
+  - url: https://www.craneww.com/insights
+    type: Blog
   - type: DomainSecurity
     url: security/crane-worldwide-domain-security.yml
   - type: LinkedIn
